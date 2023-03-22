@@ -41,12 +41,6 @@
 
  <div align="center">
 <P>STUDYING IN THIS MOMENT: </P>
-<a> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
-<a> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a ><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a ><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a ><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-
 </div>
 
 <br>
