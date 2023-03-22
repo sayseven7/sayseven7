@@ -6,16 +6,16 @@
 <div align="center">  
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: green)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true" />
 </picture>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayseven7&layout=compact&hide_border=true&title_color=0bfeee&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayseven7&layout=compact&hide_border=true&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
