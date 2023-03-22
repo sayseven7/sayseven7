@@ -21,9 +21,9 @@
 
 <div align="center" > 
 <P>CONTACT:</P>
-<a href = "mailto:Lucaswins1@live.com"  target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://github.com/sayseven7" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/lucas-gomes-890073203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:matheusaraujodev1@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://github.com/matheusaraujodev1" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/matheus-araujodev-317326248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://wa.me/5571988571202" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
  </div>
@@ -57,10 +57,10 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sayseven7}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusaraujodev1}/count.svg" /></p> 
 <br>
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00ff00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
 
