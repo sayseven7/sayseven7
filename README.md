@@ -6,12 +6,12 @@
 <div align="center">  
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true&theme=merko"
-  media="(prefers-color-scheme: merko)"
+  srcset="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true"
-  media="(prefers-color-scheme: merko), (prefers-color-scheme: merko)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true" />
 </picture>
