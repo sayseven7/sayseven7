@@ -54,7 +54,7 @@
 
  <div align="center">
 <P>MY SKILLS:</P>
-<a> <img src="https://img.shields.io/badge/Phyton-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+<a> <img src="https://img.shields.io/badge/Phyton-F7DF1E?style=for-the-badge&logo=Phyton&logoColor=black" target="_blank"></a>
 <a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a ><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a ><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
