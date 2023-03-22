@@ -20,7 +20,8 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusaraujodev1&bg_color=0d1117&color=0bfeee&line=34a1bc&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sayseven7&bg_color=00ff00
+&color= &line=34a1bc&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -32,9 +33,8 @@
 <div align="center" > 
 <P>CONTACT:</P>
 <a href = "mailto:lmoraeswins1@live.com"  target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://github.com/matheusaraujodev1" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/matheus-araujodev-317326248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://wa.me/5571988571202" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://github.com/sayseven7" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/lucas-gomes-890073203//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
  </div>
  
