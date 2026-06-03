@@ -1,99 +1,148 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=160&section=header&text=Say%20Seven&fontColor=0d1117&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Red%20Team%20%E2%80%A2%20Offensive%20Security&descAlignY=58&descColor=0d1117"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Say+Seven+😉+👋;Red+Team+Pentester+🏴‍☠️;Offensive+Security+Researcher+🏿‍💻;From+Brazil+🇧🇷;Welcome+to+my+GitHub!+😎" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=00FF00&background=0D111700&center=true&vCenter=true&width=1000&lines=root%40sayseven7%3A~%23+whoami;Red+Team+Pentester+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Offensive+Security+Researcher+%F0%9F%92%80;Web+Hacking+%E2%80%A2+Recon+%E2%80%A2+Exploit+Dev;Breaking+things+legally+since+day+one+%F0%9F%87%A7%F0%9F%87%B7" />
   </a>
 </p>
 
----
-
-## 👨🏿‍💻 About Me
-
-- 🏴‍☠️ Red Team Pentester  
-- 🔎 Focus on Web Hacking, Recon and Exploit Research  
-- 🐧 Linux Enthusiast  
-- ⚡ Automation with Python  
-- 🇧🇷 Brazil  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true&theme=merko&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayseven7&layout=compact&theme=merko&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
+<!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayseven7&bg_color=0d1117&color=00ff00&line=00ff00&point=19e619&area=true&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/lucas-gomes-890073203/">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=flat-square&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:lmoraeswins1@live.com">
+    <img src="https://img.shields.io/badge/Email-00ff00?style=flat-square&logo=maildotru&logoColor=black"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sayseven7&label=Recon%20Hits&color=00ff00&style=flat-square"/>
 </p>
+
+---
+
+## 💀 whoami
+
+```bash
+┌──(sayseven7㉿kali)-[~]
+└─$ cat /etc/profile.d/about.sh
+
+  NAME="Lucas Gomes (Say Seven)"
+  ROLE="Red Team Pentester"
+  LOCATION="Brazil 🇧🇷"
+  FOCUS=("Web Hacking" "Recon" "Exploit Research")
+  OS="Linux Enthusiast 🐧"
+  WEAPON_OF_CHOICE="Python ⚡"
+  STATUS="Always learning, always breaking"
+  CURRENTLY_GRINDING=("OSCP" "eCPPT")
+```
 
 ---
 
 ## 🎯 Focus Now
 
-- 🔎 Web Pentest / Recon / Exploit Research  
-- 🐧 Linux + Networking  
-- 🤖 Python Automation  
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔎 Offensive
+- Web Pentest
+- Recon & OSINT
+- Exploit Research
+- Privilege Escalation
+
+</td>
+<td valign="top" width="33%">
+
+### 🐧 Systems
+- Linux Internals
+- Networking & Pivoting
+- Active Directory
+- Post-Exploitation
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 Automation
+- Python Tooling
+- Recon Pipelines
+- Bash Scripting
+- Workflow Custom
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Skills
+## 🧠 Arsenal
 
 <div align="center">
 
-### Languages
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-00ff00?style=for-the-badge&logo=gnubash&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-00ff00?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-00ff00?style=for-the-badge&logo=css3&logoColor=black)
 
-<img src="https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-00ff00?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-00ff00?style=for-the-badge&logo=css3&logoColor=black"/>
+### Offensive Tooling
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-00ff00?style=for-the-badge&logo=burpsuite&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-00ff00?style=for-the-badge&logo=metasploit&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-00ff00?style=for-the-badge&logo=nmap&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-00ff00?style=for-the-badge&logo=wireshark&logoColor=black)
 
-### Tools & OS
+### Platforms & OS
+![Kali](https://img.shields.io/badge/Kali_Linux-00ff00?style=for-the-badge&logo=kalilinux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-00ff00?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-00ff00?style=for-the-badge&logo=windows&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00ff00?style=for-the-badge&logo=git&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00ff00?style=for-the-badge&logo=docker&logoColor=black)
 
-<img src="https://img.shields.io/badge/Git-00ff00?style=for-the-badge&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux-00ff00?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows-00ff00?style=for-the-badge&logo=windows&logoColor=black"/>
+### Practice Grounds
+![HackTheBox](https://img.shields.io/badge/Hack_The_Box-00ff00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-00ff00?style=for-the-badge&logo=tryhackme&logoColor=black)
 
 </div>
 
 ---
 
-## 📫 Contact
+## 📊 Stats
 
 <div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&rank_icon=github"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sayseven7&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</div>
 
-<a href="mailto:lmoraeswins1@live.com">
-<img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<a href="https://github.com/sayseven7">
-<img src="https://img.shields.io/badge/GitHub-00ff00?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lucas-gomes-890073203/">
-<img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayseven7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&langs_count=8"/>
 </div>
 
 ---
 
-## 👁 Recon Hits
+## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sayseven7&label=Recon+Hits&color=00ff00&style=for-the-badge"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=sayseven7&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </div>
 
 ---
+
+## 📈 Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayseven7&bg_color=0d1117&color=00ff00&line=00ff00&point=19e619&area=true&hide_border=true"/>
+</p>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/sayseven7/sayseven7/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<div align="center">
+
+> *"The quieter you become, the more you are able to hear."*
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
