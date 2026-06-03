@@ -9,12 +9,21 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-gomes-890073203/">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=flat-square&logo=linkedin&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/lucas-morais-890073203/">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:lmoraeswins1@live.com">
-    <img src="https://img.shields.io/badge/Email-00ff00?style=flat-square&logo=maildotru&logoColor=black"/>
+  <a href="https://www.youtube.com/@ComunidadeConecta">
+    <img src="https://img.shields.io/badge/YouTube-00ff00?style=for-the-badge&logo=youtube&logoColor=black"/>
   </a>
+  <a href="https://discord.com/users/323451523373727744">
+    <img src="https://img.shields.io/badge/Discord-00ff00?style=for-the-badge&logo=discord&logoColor=black"/>
+  </a>
+  <a href="mailto:lucaswins1@live.com">
+    <img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=maildotru&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayseven7&label=Recon%20Hits&color=00ff00&style=flat-square"/>
 </p>
 
