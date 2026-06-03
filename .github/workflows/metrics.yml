@@ -1,0 +1,44 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    # Roda a cada 12 horas
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          # Token criado por VOCÊ e adicionado como secret METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sayseven7
+
+          # Visual
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Bahia
+          config_colors_palette: github_dark
+
+          # Plugin de linguagens (substitui o top-langs)
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: 00ff00, 0e4429, 006d32, 26a641, 39d353, 00ff00, 0e4429, 006d32
+
+          # Plugin de linhas de código (commits / adições / remoções)
+          plugin_lines: yes
+
+          # Onde salvar (commita no próprio repo)
+          output_action: commit
+          committer_branch: main
+          filename: metrics.svg
