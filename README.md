@@ -108,20 +108,8 @@
 ## 📊 Stats
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sayseven7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&rank_icon=github"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sayseven7&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-</div>
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayseven7&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sayseven7&theme=matrix&column=7&margin-w=4&margin-h=4&no-frame=true"/>
+<img height="195em" src="./metrics.svg"/>
+<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=sayseven7&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </div>
 
 ---
